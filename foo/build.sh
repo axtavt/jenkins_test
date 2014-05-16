@@ -1,1 +1,1 @@
-echo "Building foo (changed again)..."
+echo "Building foo..."
